@@ -252,17 +252,6 @@ seaborn>=0.12.0
 - [ ] Add student feedback integration
 - [ ] Automated email alerts for at-risk students
 
----
-
-## 📞 Contact
-
-- **Email**: your-email@example.com
-- **GitHub**: github.com/your-username
-- **LinkedIn**: linkedin.com/in/your-profile
-
----
-
-**⭐ If you find this project helpful, please give it a star!**
 
 ---
 
