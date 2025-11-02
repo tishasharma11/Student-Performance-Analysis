@@ -1,0 +1,13 @@
+Student_ID,Name,Department,Average_Score,Attendance_Percent
+STU0005,Student_5,Mechanical,32.8,56
+STU0082,Student_82,Civil,33.2,54
+STU0057,Student_57,Civil,34.4,50
+STU0013,Student_13,Mechanical,34.4,64
+STU0076,Student_76,Electronics,35.6,60
+STU0084,Student_84,Civil,36.0,49
+STU0015,Student_15,Civil,36.6,55
+STU0022,Student_22,Computer Science,36.8,60
+STU0070,Student_70,Electronics,38.0,59
+STU0068,Student_68,Computer Science,38.2,47
+STU0080,Student_80,Civil,40.2,55
+STU0077,Student_77,Civil,40.2,48
